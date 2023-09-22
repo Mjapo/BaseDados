@@ -21,11 +21,7 @@ Criação do Dashboard: Usando o Power BI, desenvolvemos um dashboard interativo
 Acesso ao Projeto
 Você pode acessar o projeto e explorar o dashboard criado neste link.
 
-Contato
-Se tiver alguma dúvida ou precisar de mais informações sobre este projeto, não hesite em entrar em contato com:
+https://app.powerbi.com/view?r=eyJrIjoiZTAzM2U1MzMtN2RkNy00MmY5LWJmNzAtMDhiMzc4OGJhMTMwIiwidCI6IjdiMzk1NThmLTM0OTMtNGUyZS05MjQ3LTNlYzk4YTg0MWYzZCJ9
 
-Marcelo Ishida Takeya
 
-Cientista de Dados
-Email: [marceloishida14@email.com]
-Agradecemos por explorar nosso projeto de análise de dados empresariais com Power BI! Esperamos que as informações fornecidas sejam úteis e esclarecedoras.
+
