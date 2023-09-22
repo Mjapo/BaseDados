@@ -1,4 +1,7 @@
 Projeto: Análise de Dados Empresariais com Power BI
+
+
+
 Neste projeto, criamos uma base de dados no Azure usando o MySQL, onde foi criada uma tabela para armazenar informações dos usuários. Em seguida, integramos essa base de dados ao Power BI e realizamos um processo de ETL (Extração, Transformação e Carga) para analisar e visualizar os dados.
 
 Objetivo
